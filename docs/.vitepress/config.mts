@@ -47,7 +47,8 @@ export default defineConfig({
   description: "个人在开发和生活中的日记",
   // 🔽 新增这行 head 配置来修改网站图标
   head: [
-    ['link', { rel: 'icon', href: '/logo.png' }]
+    ['link', { rel: 'icon', href: '/logo.png' }],
+    ['script', { src: '/live2d/autoload.js', async: '' }]
   ],
   themeConfig: {
     logo: '/avatar.png',

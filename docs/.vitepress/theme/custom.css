@@ -1,0 +1,5 @@
+/* 确保看板娘在所有页面都显示，不被遮挡 */
+#waifu {
+  z-index: 9999 !important;
+  position: fixed !important;
+}

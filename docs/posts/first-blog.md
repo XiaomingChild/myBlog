@@ -32,3 +32,5 @@ readonly:保证input处于只读属性
   background: #fff;
   box-shadow: 0 0 0 2px rgba(64, 158, 255, 0.15);
 }
+```
+### ok，孩子们，需求看错了，他只需要input内置表格就行了不管单击还是双击触发，那很简单了，直接样式一改就完了

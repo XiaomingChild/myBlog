@@ -2,7 +2,7 @@
 title: 毕业快乐
 description: 在共青读过的书、爱过的人，都成了带不走，也忘不掉的回忆!
 date: 2026-5-25 11:40
-# sticky: 2
+sticky: 2
 tags:
   - 碎碎念
   - 毕业

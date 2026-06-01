@@ -2,7 +2,7 @@
 title: 放假吃火锅
 description: 周五放假自己在家吃火锅！！！
 date: 2026-5-29 9:00
-# sticky: 2
+sticky: 3
 tags:
   - 碎碎念
 ---

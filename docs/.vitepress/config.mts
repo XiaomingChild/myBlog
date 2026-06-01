@@ -25,7 +25,7 @@ const blogThemeConfig = getThemeConfig({
     mobileMinify: false, // 手机端自动最小化
     reopen: true,        // 右上角允许重新打开
     body: [
-      { type: 'text', content: '禁止犬吠' },
+      { type: 'text', content: '禁止犬吠(有事请私信我：l2281363011)，但我不一定回🤭' },
     ]
   },
   // ---- 文章底部赞赏按钮 ----

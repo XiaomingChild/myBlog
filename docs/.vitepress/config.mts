@@ -5,6 +5,7 @@ import { getThemeConfig } from '@sugarat/theme/node'
 const blogThemeConfig = getThemeConfig({
   author: 'Gouzi', //文章默认作者
   hotArticle: { nextText: '下一篇' }, // 热门文章配置
+  search: false,
   // ---- 首页 ----
   home: {
     motto: '喔~喔~喔~',
@@ -60,6 +61,9 @@ export default defineConfig({
   ],
   themeConfig: {
     logo: '/avatar.png',
+    search: {
+      provider: 'local'
+    },
     nav: [
       { text: '首页', link: '/' },
       // { text: '文章分类', link: '/tags' }
